@@ -10,6 +10,10 @@ public class TiposVariaveis {
         numero = 10;
 
         final double PI = 3.14; //constante
+
         System.out.print(numero);
+        System.out.print(salarioMinimo);
+        System.out.print(numeroCurto2);
+        System.out.print(PI);
     }
 }
